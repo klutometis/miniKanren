@@ -3,5 +3,5 @@
  (category logic)
  (license "BSD")
  (depends setup-helper)
- (test-depends)
+ (test-depends test)
  (foreign-depends))
