@@ -1,5 +1,5 @@
-miniKanren
-==========
+miniKanren for Chicken Scheme
+=============================
 
 Canonical miniKanren implementation ported to Chicken Scheme
 
