@@ -1,0 +1,7 @@
+((synopsis "Chicken port of the canonical mini-kanren")
+ (author "Peter Danenberg")
+ (category logic)
+ (license "BSD")
+ (depends setup-helper)
+ (test-depends)
+ (foreign-depends))

@@ -1,0 +1,7 @@
+(include "setup-helper")
+
+(verify-extension-name "minikanren")
+
+(setup-shared-extension-module
+ 'minikanren
+ (extension-version 0.1))
