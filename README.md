@@ -1,7 +1,7 @@
 miniKanren
 ==========
 
-Canonical miniKanren implementation.
+Canonical miniKanren implementation ported to Chicken Scheme
 
 Implements the language described in the paper:
 
